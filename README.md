@@ -10,3 +10,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syauqiilmi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/syauqiilmi/">LinkedIn</a>
+- <a href="https://instagram.com/syauqiilmi?igshid=ZGUzMzM3NWJiOQ==">Instagram</a>
